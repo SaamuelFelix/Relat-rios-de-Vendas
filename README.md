@@ -1,9 +1,13 @@
-# Relat-rios-de-Vendas
+# Relatórios-de-Vendas
 Dashboard de vendas com visão geral de faturamento, produtos mais vendidos, metas, evolução mensal, ranking de vendedores e filtros interativos. Ideal para acompanhar resultados, identificar oportunidades e tomar decisões rápidas com base em dados atualizados e visuais.
 
-Claro, Samuel! Aqui está uma **descrição profissional e clara** que você pode usar para sua **dashboard de relatórios de vendas**, seja em PDF, apresentação, GitHub ou site:
 
----
+
+
+https://github.com/user-attachments/assets/03f4a1ae-d747-4dc9-af8f-c833d7b6c106
+
+
+
 
 ### 📊 **Dashboard de Relatórios de Vendas**
 
@@ -24,7 +28,5 @@ Esta dashboard foi desenvolvida para oferecer uma **visão estratégica e detalh
 * Identificação rápida de oportunidades e gargalos.
 * Acompanhamento de metas e performance da equipe comercial.
 * Tomada de decisão baseada em dados atualizados e visualmente claros.
-
----
 
 
